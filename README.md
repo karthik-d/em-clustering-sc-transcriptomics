@@ -14,3 +14,10 @@ Expectation-Maximization (EM) -based clustering algorithm to identify groups def
 
 - **Data with sex and cell ontology as biological variates** - cell ontology captured by Gaussian prior.   
   <img src="./docs/assets/both-variate-clustering-results.png" width=800 />
+
+
+## Key references
+
+- Tabula Muris Consortium, et al. "Single-cell transcriptomics of 20 mouse organs creates a Tabula Muris." _Nature 562.7727 (2018): 367-372_.
+- Moon, Todd K. "The expectation-maximization algorithm." _IEEE Signal processing magazine 13.6 (1996): 47-60_.
+- Dempster, Arthur P., Nan M. Laird, and Donald B. Rubin. "Maximum likelihood from incomplete data via the EM algorithm." _Journal of the royal statistical society: series B (methodological) 39.1 (1977): 1-22_.
