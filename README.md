@@ -10,7 +10,7 @@ Expectation-Maximization (EM) -based clustering algorithm to identify groups def
 ## Clustering results with Poisson and Gaussian Priors
 
 - **Data with only sex as biological variate** - neither captured by Poisson nor Gaussian.   
-  <img src="./docs/assets/sex-variate-clustering-results.png" />
+  <img src="./docs/assets/sex-variate-clustering-results.png" width=800 />
 
 - **Data with sex and cell ontology as biological variates** - cell ontology captured by Gaussian prior.   
-  <img src="./docs/assets/both-variate-clustering-results.png" />
+  <img src="./docs/assets/both-variate-clustering-results.png" width=800 />
